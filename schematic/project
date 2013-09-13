@@ -1,0 +1,4 @@
+schematics arduino_can_interface.sch
+use-files 
+elements-dir ~/footprints 
+output-name board
